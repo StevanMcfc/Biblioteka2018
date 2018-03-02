@@ -7,6 +7,7 @@ public class Knjiga {
 	private String autori;
 	private String izdavac;
 	private int izdanje;
+	
 	public String getNaslov() {
 		return naslov;
 	}
